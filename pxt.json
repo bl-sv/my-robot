@@ -1,5 +1,6 @@
 {
     "name": "MY ROBOT",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
